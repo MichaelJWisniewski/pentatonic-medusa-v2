@@ -1,0 +1,3408 @@
+{
+    "materials": {
+        "plastics": [
+            {
+                "name": "Polyethylene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polypropylene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyethylene Terephthalate",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyvinyl Chloride",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polystyrene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Nylon",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Acrylic",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polycarbonate",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyurethane",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "High Impact Polystyrene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "ABS",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 65
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 48
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 47
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 33
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 26
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 22
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 20
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 18
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 14
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 11
+                    }
+                ]
+            },
+            {
+                "name": "Polyamide",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polylactic Acid",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyether Ether Ketone",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyvinylidene Fluoride",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyoxymethylene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polytetrafluoroethylene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyetherimide",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyphenylene Sulfide",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            },
+            {
+                "name": "Polyaryletherketone",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 2800,
+                        "absorbance": 90
+                    },
+                    {
+                        "wavelength (cm-1)": 2805,
+                        "absorbance": 88
+                    },
+                    {
+                        "wavelength (cm-1)": 2810,
+                        "absorbance": 86
+                    },
+                    {
+                        "wavelength (cm-1)": 2815,
+                        "absorbance": 84
+                    },
+                    {
+                        "wavelength (cm-1)": 2820,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 2825,
+                        "absorbance": 80
+                    },
+                    {
+                        "wavelength (cm-1)": 2830,
+                        "absorbance": 78
+                    },
+                    {
+                        "wavelength (cm-1)": 2835,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 2840,
+                        "absorbance": 74
+                    },
+                    {
+                        "wavelength (cm-1)": 2845,
+                        "absorbance": 72
+                    },
+                    {
+                        "wavelength (cm-1)": 2850,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 2855,
+                        "absorbance": 68
+                    },
+                    {
+                        "wavelength (cm-1)": 2860,
+                        "absorbance": 66
+                    },
+                    {
+                        "wavelength (cm-1)": 2865,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 2870,
+                        "absorbance": 62
+                    },
+                    {
+                        "wavelength (cm-1)": 2875,
+                        "absorbance": 60
+                    },
+                    {
+                        "wavelength (cm-1)": 2880,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 2885,
+                        "absorbance": 56
+                    },
+                    {
+                        "wavelength (cm-1)": 2890,
+                        "absorbance": 54
+                    },
+                    {
+                        "wavelength (cm-1)": 2895,
+                        "absorbance": 52
+                    }
+                ]
+            }
+        ],
+        "liquids": [
+            {
+                "name": "Motor Oil",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Vegetable Oil",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Paint Thinner",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Ethanol",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Acetone",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Methanol",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Glycerol",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Ethylene Glycol",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Diesel",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Gasoline",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Kerosene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Lubricating Oil",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Antifreeze",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Toluene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Xylene",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Hydraulic Fluids",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Cleaning Agents",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Water-based Adhesives",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Alcohol-based Inks",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            },
+            {
+                "name": "Bleach",
+                "peaks": [
+                    {
+                        "wavelength (cm-1)": 1000,
+                        "absorbance": 85
+                    },
+                    {
+                        "wavelength (cm-1)": 1050,
+                        "absorbance": 82
+                    },
+                    {
+                        "wavelength (cm-1)": 1100,
+                        "absorbance": 79
+                    },
+                    {
+                        "wavelength (cm-1)": 1150,
+                        "absorbance": 76
+                    },
+                    {
+                        "wavelength (cm-1)": 1200,
+                        "absorbance": 73
+                    },
+                    {
+                        "wavelength (cm-1)": 1250,
+                        "absorbance": 70
+                    },
+                    {
+                        "wavelength (cm-1)": 1300,
+                        "absorbance": 67
+                    },
+                    {
+                        "wavelength (cm-1)": 1350,
+                        "absorbance": 64
+                    },
+                    {
+                        "wavelength (cm-1)": 1400,
+                        "absorbance": 61
+                    },
+                    {
+                        "wavelength (cm-1)": 1450,
+                        "absorbance": 58
+                    },
+                    {
+                        "wavelength (cm-1)": 1500,
+                        "absorbance": 55
+                    },
+                    {
+                        "wavelength (cm-1)": 1550,
+                        "absorbance": 52
+                    },
+                    {
+                        "wavelength (cm-1)": 1600,
+                        "absorbance": 49
+                    },
+                    {
+                        "wavelength (cm-1)": 1650,
+                        "absorbance": 46
+                    },
+                    {
+                        "wavelength (cm-1)": 1700,
+                        "absorbance": 43
+                    },
+                    {
+                        "wavelength (cm-1)": 1750,
+                        "absorbance": 40
+                    },
+                    {
+                        "wavelength (cm-1)": 1800,
+                        "absorbance": 37
+                    },
+                    {
+                        "wavelength (cm-1)": 1850,
+                        "absorbance": 34
+                    },
+                    {
+                        "wavelength (cm-1)": 1900,
+                        "absorbance": 31
+                    },
+                    {
+                        "wavelength (cm-1)": 1950,
+                        "absorbance": 28
+                    }
+                ]
+            }
+        ]
+    }
+}
