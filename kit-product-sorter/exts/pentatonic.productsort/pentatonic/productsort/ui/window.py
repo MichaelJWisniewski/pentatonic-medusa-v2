@@ -32,6 +32,7 @@ class GenAIWindow(ui.Window):
         os.environ["OPENAI_API_KEY"] = settings.get_as_string("/persistent/exts/pentatonic.productsort/OpenAI_APIKey")
         os.environ["AWS_VAMS_PATH"] = settings.get_as_string("/persistent/exts/pentatonic.productsort/aws_vams_path")
         os.environ["AWS_S3_PATH"] = settings.get_as_string("/persistent/exts/pentatonic.productsort/aws_s3_path")
+        os.environ["OUTPUT_PATH"] = settings.get_as_string("/persistent/exts/pentatonic.productsort/output_path")
 
         self._target_pos_text = "(0.00, 0.00, 0.00)"
         self._target_pos = Gf.Vec3d(0, 0, 0)
@@ -62,6 +63,9 @@ class GenAIWindow(ui.Window):
 
         self._update_stream = omni.kit.app.get_app().get_update_event_stream()
         self._update_subscription = self._update_stream.create_subscription_to_pop(self.on_update)
+
+        timeline_stream = omni.timeline.get_timeline_interface().get_timeline_event_stream()
+        self._timeline_subscription = timeline_stream.create_subscription_to_pop(self._on_timeline_event)
 
         self._using_isaac = ui.SimpleBoolModel(default_value = True)
 
@@ -271,6 +275,18 @@ class GenAIWindow(ui.Window):
         if not self._is_playing:
             return
         
+    def _on_timeline_event(self, e):
+        if e.type == int(omni.timeline.TimelineEventType.PLAY):
+            pass
+        elif e.type == int(omni.timeline.TimelineEventType.STOP):
+            if self._hopper_title == "Stop":
+                self._hopper_title = "Start"
+                self._product_spawner.on_toggle(False, self.product_list)
+                self.rebuild_frame()
+
+        elif e.type == int(omni.timeline.TimelineEventType.PAUSE):
+            pass
+        
     def on_event(self, event: carb.events.IEvent):
         print(event.payload)
         message = event.payload["setColor"]
@@ -311,6 +327,7 @@ class GenAIWindow(ui.Window):
         return
     
     # TODO: Change logic for distribution and spawning of container
+    
     def set_target(self, position, rotation, rigidBody, onPlace):
         formatted_str = "({}, {}, {})".format(
             "{:.2f}".format(position[0]),
@@ -548,22 +565,22 @@ class GenAIWindow(ui.Window):
         self.response_log.text = self._last_response
         return
     
-
     def _spawn_hopper(self):
         print("Hopper Button")
         if self._hopper_state is False:
             print("Hopper Started")
-            self._apply_button()
             self._hopper_title = "Stop"
             self._hopper_state = True
-            self._product_spawner.on_toggle(True)
+            #self.rebuild_frame()
+            self._create_product_list()
 
+            self._product_spawner.on_toggle(True, self.product_list)
             
         elif self._hopper_state is True:
             print("Hopper Stopped")
             self._hopper_state = False
             self._hopper_title = "Start"
-            self._product_spawner.on_toggle(False)
+            self._product_spawner.on_toggle(False, self.product_list)
             
         self.rebuild_frame()
 
@@ -670,6 +687,8 @@ class GenAIWindow(ui.Window):
         os.environ["AWS_VAMS_PATH"] = settings.get_as_string("/persistent/exts/pentatonic.productsort/aws_vams_path")
 
         settings.set_string("/persistent/exts/pentatonic.productsort/output_path", values["output_path"])
+        os.environ["OUTPUT_PATH"] = settings.get_as_string("/persistent/exts/pentatonic.productsort/output_path")
+
         dialog.hide()
 
     def _open_settings(self):

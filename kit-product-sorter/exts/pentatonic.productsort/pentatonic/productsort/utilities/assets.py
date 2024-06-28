@@ -1,7 +1,7 @@
 AssetPresets = {
     'Containers':{
         'Plastic_Bin':{
-            'url':'omniverse://localhost/Projects/Medusa/bin.usd',
+            'url':'omniverse://localhost/Projects/Medusa/Containers/bin_new.usd',
             'length':'0.2',
             'width':'0.1',
             'height':'0.2'
@@ -29,7 +29,7 @@ AssetPresets = {
         },
 
         'Target':{
-            'url':'omniverse://localhost/Projects/Medusa/CardboardBox_02.usd',
+            'url':'omniverse://localhost/Projects/Medusa/Containers/CardboardBox_02.usd',
             'length':'0.7970254338452492',
             'width':'0.6365090800111943',
             'height':'0.5032872468988465'

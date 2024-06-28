@@ -9,9 +9,6 @@ import json
 import random
 import time
 import numpy as np
-#Height = Depth
-#Width = Height
-#length = Width
 
 def create_new_prim(prim_path):
     ctx = omni.usd.get_context()
@@ -29,8 +26,7 @@ def create_new_prim(prim_path):
         xform.AddRotateXYZOp()
 
     return prim
-            
-
+        
 #Height = Depth
 #Width = Height
 #length = Width
